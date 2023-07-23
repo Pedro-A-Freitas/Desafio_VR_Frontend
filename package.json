@@ -1,0 +1,11 @@
+{
+  "name": "Desafio_VR_Frontend",
+  "version": "1.0.0",
+  "description": "Desafio VR Frontend",
+  "main": "index.js",
+  "author": "Pedro Freitas",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  }
+}
